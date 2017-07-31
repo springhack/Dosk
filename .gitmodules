@@ -1,0 +1,3 @@
+[submodule "Dosk/third_part/node"]
+	path = Dosk/third_part/node
+	url = https://github.com/nodejs/node
